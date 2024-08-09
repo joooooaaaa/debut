@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "page-template",
+      "disabled": true,
       "settings": {
       }
     },
@@ -18,8 +19,8 @@
       "type": "rich-text",
       "settings": {
         "full_width": false,
-        "section_title": "Nehme noch heute Kontakt mit uns auf!",
-        "text": "",
+        "section_title": "Unser Kontaktformular",
+        "text": "<p>Nehme noch heute Kontakt mit uns auf!<\/p>",
         "text_size": "medium"
       }
     },
