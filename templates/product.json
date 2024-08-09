@@ -33,7 +33,7 @@
         "custom_liquid_9hcGqM": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"custom-features\">\n    <ul>\n        <li>\n            <img src=\"{{ 'batterie.WEBP' | asset_url }}\" alt=\"Icon 1\" style=\"width: 20px; height: 20px; margin-right: 10px;\">\n            <span>Erhöhte Energie und Ausdauer<\/span>\n        <\/li>\n        <li>\n            <img src=\"{{ 'icon2.png' | asset_url }}\" alt=\"Icon 2\" style=\"width: 20px; height: 20px; margin-right: 10px;\">\n            <span>Höchste Qualität<\/span>\n        <\/li>\n        <li>\n            <img src=\"{{ 'icon3.png' | asset_url }}\" alt=\"Icon 3\" style=\"width: 20px; height: 20px; margin-right: 10px;\">\n            <span>85+ essenzielle Mineralien<\/span>\n        <\/li>\n<li>\n            <img src=\"{{ 'icon3.png' | asset_url }}\" alt=\"Icon 3\" style=\"width: 20px; height: 20px; margin-right: 10px;\">\n            <span>Zertifizierte Inhaltsstoffe<\/span>\n        <\/li>\n    <\/ul>\n<\/div>"
+            "custom_liquid": "<div class=\"custom-features\">\n    <p style=\"margin-top: 10px; font-weight: bold;\">\n        NUR diesen Monat! Kaufe 2 und erhalte 3!\n    <\/p>\n    <ul>\n        <li>\n            <img src=\"{{ 'batterie.webp' | asset_url }}\" alt=\"Icon 1\" style=\"width: 20px; height: 20px; margin-right: 10px;\">\n            <span>Erhöhte Energie und Ausdauer<\/span>\n        <\/li>\n        <li>\n            <img src=\"{{ 'plant.webp' | asset_url }}\" alt=\"Icon 2\" style=\"width: 20px; height: 20px; margin-right: 10px;\">\n            <span>Höchste Qualität<\/span>\n        <\/li>\n        <li>\n            <img src=\"{{ 'rock.png' | asset_url }}\" alt=\"Icon 3\" style=\"width: 20px; height: 20px; margin-right: 10px;\">\n            <span>85+ essenzielle Mineralien<\/span>\n        <\/li>\n<li>\n            <img src=\"{{ 'Mikroskop_900x_dad88828-d09a-4e74-a557-8403b8557235.webp' | asset_url }}\" alt=\"Icon 3\" style=\"width: 20px; height: 20px; margin-right: 10px;\">\n            <span>Zertifizierte Inhaltsstoffe<\/span>\n        <\/li>\n    <\/ul>\n    <p style=\"margin-top: 10px; font-weight: bold;\">\n        Sofort lieferbar, Lieferzeit aktuell 3-7 Werktage.\n    <\/p>\n    <p style=\"margin-top: 10px; font-weight: bold;\">\n         Mehr als 200 mal in den letzten 2 Monaten gekauft\n    <\/p>\n<\/div>"
           }
         },
         "buttons": {
@@ -66,7 +66,7 @@
         "enable_payment_button": true,
         "show_share_buttons": true,
         "media_size": "medium",
-        "enable_image_zoom": true,
+        "enable_image_zoom": false,
         "enable_video_looping": false
       }
     },
@@ -74,11 +74,47 @@
       "type": "product-back-to-collection",
       "settings": {
       }
+    },
+    "feature_row_T9kW4N": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/running-4782722_1280.jpg",
+        "layout": "left",
+        "title": "Warten Sie nicht länger – Ihre Gesundheit zählt",
+        "text": "<p>Sie verdienen nur das Beste. Shilajit von Shilalife ist Ihre<br\/>Chance, ein bewährtes Naturheilmittel zu erleben, das Ihr Leben bereichern<br\/>kann. Warten Sie nicht länger und bestellen Sie noch heute – verpassen Sie<br\/>nicht die Gelegenheit, Ihre Gesundheit und Vitalität auf natürliche Weise zu<br\/>steigern.<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "feature_row_gMKLBc": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mountain-7831421.jpg",
+        "layout": "right",
+        "title": "Die Wissenschaft hinter Shilajit: Mehr als nur ein Supplement",
+        "text": "<p><strong>Studien bestätigen die Wirksamkeit<\/strong><\/p><p>Wissenschaftliche Studien haben die zahlreichen<br\/>gesundheitlichen Vorteile von Shilajit bestätigt. Von der Erhöhung des<br\/>Testosteronspiegels über die Verbesserung der Spermienqualität bis hin zur<br\/>Reduktion von oxidativem Stress – die Ergebnisse sind beeindruckend und<br\/>sprechen für sich.<\/p><p><strong>Klinische Beweise<\/strong><\/p><p><strong>Erhöhtes Testosteron:<\/strong> Eine Studie zeigte, dass die Einnahme von gereinigtem<br\/>     Shilajit die Testosteronspiegel signifikant steigern kann <\/p><p><strong>verbesserte Spermienqualität:<\/strong> Eine weitere Studie belegte, dass Shilajit die<br\/>     Spermienanzahl und -motilität bei Männern mit Oligospermie deutlich<br\/>     verbessert.<\/p><p><strong>Reduktion von oxidativem Stress:<\/strong> Shilajit hat starke antioxidative<br\/>     Eigenschaften, die helfen, den Körper vor freien Radikalen zu schützen und<br\/>     die allgemeine Gesundheit zu fördern.<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "feature_row_bPE63p": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/four-way-fist-bump-at-work.jpg",
+        "layout": "left",
+        "title": "Bilder aus der Shilalife Community",
+        "text": "<p>Du möchtest, dass Dein Social Media Beitrag hier abgebildet wird?<\/p><p><br\/>Dann poste ein Foto auf Instagram und verlinke uns mit @shilalife_germany<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
     }
   },
   "order": [
     "product-recommendations",
     "main",
-    "product-back-to-collection"
+    "product-back-to-collection",
+    "feature_row_T9kW4N",
+    "feature_row_gMKLBc",
+    "feature_row_bPE63p"
   ]
 }

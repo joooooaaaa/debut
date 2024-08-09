@@ -12,8 +12,8 @@
     "hero-1": {
       "type": "hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/alexinig.jpg",
-        "alignment": "top",
+        "image": "shopify:\/\/shop_images\/resized_mountain_20mp-Wiederhergestellt.jpg",
+        "alignment": "bottom",
         "hero_layout": "full_width",
         "hero_size": "large",
         "text_size": "large",
@@ -54,28 +54,6 @@
         "text": "<ul><li><strong>Unvergleichliche Qualität<\/strong>: Unser Shilajit wird in den unberührten Höhen des Himalayas geerntet und unterliegt strengen Qualitätskontrollen. Wir gewährleisten 100% Reinheit und Authentizität, damit du nur das Beste erhältst.<\/li><li><strong>Höchste Reinheit und Potenz<\/strong>: Unser Shilajit wird sorgfältig extrahiert und getestet, um sicherzustellen, dass es frei von Verunreinigungen ist und die maximale Wirkstoffkonzentration bietet.<\/li><li><strong>Sichere und bequeme Bestellung<\/strong>: Hier stehst du im Fokus, einfach und bequem. Mit nur ein paar Klicks sorgen wir dafür, dass deine Bestellung schnell und zuverlässig bei dir eintrifft.<\/li><li><strong>Zufriedenheitsgarantie<\/strong>: Wir sind von der Qualität unseres Shilajits überzeugt. Sollte es dennoch einmal Grund zur Beanstandung geben, bieten wir dir eine unkomplizierte Rückerstattung oder einen Austausch an.<\/li><\/ul><p>Entscheide dich für ShilaLife und erlebe den Unterschied. Unser hochwertiges Shilajit unterstützt dich dabei, deine Gesundheit und Vitalität auf natürliche Weise zu fördern. Probiere es aus und entdecke, warum so viele Kunden auf ShilaLife vertrauen . <\/p><p><\/p><p><\/p><p>            <\/p><p><\/p><p><\/p>",
         "button_label": "",
         "button_link": ""
-      }
-    },
-    "featured_blog_mdgQEM": {
-      "type": "featured-blog",
-      "settings": {
-        "title": "Blog Artikel",
-        "blog": "news",
-        "post_limit": 3,
-        "blog_show_author": false,
-        "blog_show_date": true,
-        "show_view_all": false
-      }
-    },
-    "collection": {
-      "type": "collection",
-      "settings": {
-        "title": "Unser ShilaJit",
-        "collection": "frontpage",
-        "grid": 2,
-        "rows": 2,
-        "show_vendor": false,
-        "show_view_all": false
       }
     },
     "hero-2": {
@@ -149,6 +127,28 @@
       "settings": {
         "title": ""
       }
+    },
+    "collection": {
+      "type": "collection",
+      "settings": {
+        "title": "Unser ShilaJit",
+        "collection": "frontpage",
+        "grid": 2,
+        "rows": 2,
+        "show_vendor": false,
+        "show_view_all": false
+      }
+    },
+    "featured_blog_mdgQEM": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Blog Artikel",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -156,9 +156,9 @@
     "feature-row",
     "feature_row_y493qB",
     "feature_row_gmebPk",
-    "featured_blog_mdgQEM",
-    "collection",
     "hero-2",
-    "quotes"
+    "quotes",
+    "collection",
+    "featured_blog_mdgQEM"
   ]
 }
