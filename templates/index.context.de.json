@@ -8,17 +8,10 @@
 * ------------------------------------------------------------
 */
 {
-  "sections": {
-    "main": {
-      "type": "blog-template",
-      "settings": {
-        "layout": "list",
-        "blog_show_author": false,
-        "blog_show_date": true
-      }
-    }
+  "parent": "index.json",
+  "context": {
+    "market": "de"
   },
-  "order": [
-    "main"
-  ]
+  "sections": {
+  }
 }
