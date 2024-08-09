@@ -1,120 +1,164 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "hero-1": {
       "type": "hero",
       "settings": {
+        "image": "shopify:\/\/shop_images\/alexinig.jpg",
+        "alignment": "top",
+        "hero_layout": "full_width",
         "hero_size": "large",
-        "text_size": "large"
+        "text_size": "large",
+        "title": "Entdecken Sie die reine Kraft des Himalayas",
+        "text": "<p>Premium Shilajit für Ihr Wohlbefinden.<\/p>",
+        "button_label": "Jetzt Entdecken",
+        "button_link": "shopify:\/\/products\/100-premium-himalaya-shilajit"
       }
     },
     "feature-row": {
       "type": "feature-row",
       "settings": {
+        "image": "shopify:\/\/shop_images\/a-lonely-mountain-covered-in-snow.jpg",
+        "layout": "left",
+        "title": "Shilalife: Das natürliche Energie- und Vitalitätswunder aus dem Himalaya",
+        "text": "<p>Hast du dich jemals gefragt, wie die Menschen in den höchsten Gebirgsregionen Asiens seit Jahrhunderten ihre Gesundheit und Vitalität bewahren? Das Geheimnis liegt in einem seltenen und kraftvollen Naturharz: Shilajit. Bei ShilaLife bringen wir dir dieses uralte Wundermittel direkt nach Hause. Spüre die transformative Kraft von Shilajit und entdecke, wie es dein Leben verändern kann. Bereit, das Geheimnis zu lüften und deine Gesundheit auf das nächste Level zu heben?<\/p>",
+        "button_label": "",
+        "button_link": ""
       }
     },
-    "feature-columns": {
-      "type": "feature-columns",
-      "blocks": {
-        "feature-columns-0": {
-          "type": "text_block",
-          "settings": {
-          }
-        },
-        "feature-columns-1": {
-          "type": "text_block",
-          "settings": {
-          }
-        },
-        "feature-columns-2": {
-          "type": "text_block",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "feature-columns-0",
-        "feature-columns-1",
-        "feature-columns-2"
-      ],
+    "feature_row_y493qB": {
+      "type": "feature-row",
       "settings": {
-        "title": ""
+        "image": "shopify:\/\/shop_images\/icy-water-piece.jpg",
+        "layout": "right",
+        "title": "Entdecke die Vorteile von Shilajit für deine Gesundheit.",
+        "text": "<p>Stell dir vor, du könntest deine Energie, Ausdauer und geistige Klarheit mit einem natürlichen Supplement steigern. Shilajit bietet genau das. Es unterstützt die Zellenergieproduktion, fördert die Regeneration und stärkt dein Immunsystem. Mit seinen reichhaltigen Mineralien und Antioxidantien revitalisiert Shilajit deinen Körper, Geist und erhöht dein allgemeines Wohlbefinden. Tauche ein in die Welt von ShilaLife und entdecke das Geheimnis für ein vitaleres, gesünderes Leben!<\/p><ul><li><strong>Natürliche Energiequelle<\/strong>: Steigern Sie Ihre Energie und Ausdauer ohne künstliche Zusätze.<\/li><li><strong>Geistige Klarheit<\/strong>: Verbessern Sie Ihre Konzentration und geistige Leistungsfähigkeit.<\/li><li><strong>Stärkung des Immunsystems<\/strong>: Geben Sie Ihrem Körper mit den kraftvollen Antioxidantien und Mineralien von Shilajit die natürlichen Abwehrkräfte, die er braucht.<\/li><\/ul>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "feature_row_gmebPk": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DSC01137-Photoroom_1.jpg",
+        "layout": "left",
+        "title": "Warum Shilalife?",
+        "text": "<ul><li><strong>Unvergleichliche Qualität<\/strong>: Unser Shilajit wird in den unberührten Höhen des Himalayas geerntet und unterliegt strengen Qualitätskontrollen. Wir gewährleisten 100% Reinheit und Authentizität, damit du nur das Beste erhältst.<\/li><li><strong>Höchste Reinheit und Potenz<\/strong>: Unser Shilajit wird sorgfältig extrahiert und getestet, um sicherzustellen, dass es frei von Verunreinigungen ist und die maximale Wirkstoffkonzentration bietet.<\/li><li><strong>Sichere und bequeme Bestellung<\/strong>: Hier stehst du im Fokus, einfach und bequem. Mit nur ein paar Klicks sorgen wir dafür, dass deine Bestellung schnell und zuverlässig bei dir eintrifft.<\/li><li><strong>Zufriedenheitsgarantie<\/strong>: Wir sind von der Qualität unseres Shilajits überzeugt. Sollte es dennoch einmal Grund zur Beanstandung geben, bieten wir dir eine unkomplizierte Rückerstattung oder einen Austausch an.<\/li><\/ul><p>Entscheide dich für ShilaLife und erlebe den Unterschied. Unser hochwertiges Shilajit unterstützt dich dabei, deine Gesundheit und Vitalität auf natürliche Weise zu fördern. Probiere es aus und entdecke, warum so viele Kunden auf ShilaLife vertrauen . <\/p><p><\/p><p><\/p><p>            <\/p><p><\/p><p><\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "featured_blog_mdgQEM": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Blog Artikel",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "show_view_all": false
       }
     },
     "collection": {
       "type": "collection",
       "settings": {
-        "grid": 4
+        "title": "Unser ShilaJit",
+        "collection": "frontpage",
+        "grid": 2,
+        "rows": 2,
+        "show_vendor": false,
+        "show_view_all": false
       }
     },
     "hero-2": {
       "type": "hero",
       "settings": {
-        "text_size": "large"
+        "image": "shopify:\/\/shop_images\/running-4782722_1280.jpg",
+        "alignment": "center",
+        "hero_layout": "full_width",
+        "hero_size": "medium",
+        "text_size": "large",
+        "title": "Für die, die das Besondere suchen",
+        "text": "<p>Shilalife steht für Reinheit und Qualität. Unser Shilajit liefert dir die natürliche Energie, die du für ein ausgeglichenes Leben brauchst.<\/p>",
+        "button_label": "",
+        "button_link": ""
       }
     },
     "quotes": {
       "type": "quotes",
       "blocks": {
+        "quote_Eki7wP": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Shilalife hat mein Leben verändert. Die Produkte sind nicht nur hochwertig, sondern verbinden mich täglich mit der Kraft der Natur. Ich kann mir meinen Alltag ohne sie nicht mehr vorstellen.<\/p>",
+            "author": "Laura M."
+          }
+        },
+        "quote_gBYQXN": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Die Produkte von Shilalife sind einfach erstaunlich. Sie bringen eine natürliche Frische und Ruhe in mein Zuhause, die ich nirgendwo anders gefunden habe. Absolut empfehlenswert!<\/p>",
+            "author": "Stefan K."
+          }
+        },
         "quotes-0": {
           "type": "quote",
           "settings": {
+            "quote": "<p>Shilalife steht für Qualität und Natürlichkeit. Jedes Mal, wenn ich eines ihrer Produkte verwende, fühle ich mich, als ob ich einen kleinen Teil der Berge mit nach Hause nehme.<\/p>",
+            "author": "Julia S."
+          }
+        },
+        "quote_jXjXax": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Seit ich Shilalife-Produkte nutze, fühle ich mich enger mit der Natur verbunden. Die Qualität ist herausragend, und der Service ist erstklassig. Es ist eine Investition in mein Wohlbefinden.<\/p>",
+            "author": "Markus B."
           }
         },
         "quotes-1": {
           "type": "quote",
           "settings": {
+            "quote": "<p>Ich bin begeistert von Shilalife! Die Produkte sind nicht nur wunderschön gestaltet, sondern auch unglaublich wirkungsvoll. Sie bringen ein Stück Natur direkt in meinen Alltag.<\/p>",
+            "author": "Sandra L."
           }
         },
         "quotes-2": {
           "type": "quote",
           "settings": {
+            "quote": "<p>Shilalife hat es geschafft, die Essenz der Natur in jedem Produkt einzufangen. Ich schätze die Liebe zum Detail und die Philosophie, die hinter der Marke steht. Einfach großartig!<\/p>",
+            "author": "Johannes R."
           }
         }
       },
       "block_order": [
+        "quote_Eki7wP",
+        "quote_gBYQXN",
         "quotes-0",
+        "quote_jXjXax",
         "quotes-1",
         "quotes-2"
       ],
       "settings": {
         "title": ""
       }
-    },
-    "image-bar": {
-      "type": "image-bar",
-      "blocks": {
-        "image-bar-0": {
-          "type": "image",
-          "settings": {
-          }
-        },
-        "image-bar-1": {
-          "type": "image",
-          "settings": {
-          }
-        },
-        "image-bar-2": {
-          "type": "image",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "image-bar-0",
-        "image-bar-1",
-        "image-bar-2"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
     "hero-1",
     "feature-row",
-    "feature-columns",
+    "feature_row_y493qB",
+    "feature_row_gmebPk",
+    "featured_blog_mdgQEM",
     "collection",
     "hero-2",
-    "quotes",
-    "image-bar"
+    "quotes"
   ]
 }
