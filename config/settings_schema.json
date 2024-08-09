@@ -312,5 +312,29 @@
         "default": true
       }
     ]
-  }
+  },
+  {
+  "name": "Ankündigungsleiste",
+  "settings": [
+    {
+      "type": "text",
+      "id": "announcement_bar_text",
+      "label": "Text der Ankündigungsleiste",
+      "default": "Kostenloser Versand bei Bestellungen über 50€! 🎉"
+    },
+    {
+      "type": "color",
+      "id": "announcement_bar_bg_color",
+      "label": "Hintergrundfarbe",
+      "default": "#f4f4f4"
+    },
+    {
+      "type": "color",
+      "id": "announcement_bar_text_color",
+      "label": "Textfarbe",
+      "default": "#333"
+    }
+  ]
+}
+
 ]
